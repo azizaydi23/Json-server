@@ -60,6 +60,5 @@ Not tested 100%. Same as with Heroku, will sleep after a while.
 
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-aydi/)
-- [Facebook](https://fb.com/mohamed aziz aydi)
 
----
+
